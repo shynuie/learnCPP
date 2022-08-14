@@ -1,3 +1,4 @@
 # cached files yield by vscode
 .vscode/
 *.icloud
+*.DS_Store
