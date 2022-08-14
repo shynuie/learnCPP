@@ -1,4 +1,4 @@
-# Unit11 - 建構函數 constructor
+# Unit12 - 建構函數 constructor
 
 ## I. 多載函數
 函數(function)可以針對不同種型態的參數(parameter)有多個版本，建構函數(constructor)也是。具有多個參數版本的函數被稱作多載函數(overloaded function)  
